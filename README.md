@@ -28,7 +28,7 @@ print("Swapped values are:", num1, num2)
 ~~~
 
 ## OUTPUT:
-![GitHub Logo](swap.png)
+![GitHub Logo](1.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
